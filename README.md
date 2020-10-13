@@ -1,5 +1,7 @@
 # GAN inversion for video manipulation
-This repository is a hacked version of https://github.com/rolux/stylegan2encoder. To map images into latent space please refer to the aforementioned repository. 
+This repository is a hacked version of https://github.com/rolux/stylegan2encoder. To map images into latent space please refer to the aforementioned repository.
+
+## Demonstration of manipulated video: https://vimeo.com/manage/466248675/general
 
 ## Instructions for video manipulation:
 
